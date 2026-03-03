@@ -7,15 +7,14 @@ sites:
     url: https://www.sentola.ru
   - name: Sentola Dashboard
     url: https://app.sentola.ru
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
+  - name: Sentola Backend
+    url: https://api.sentola.ru/
+  - name: Invest Sentola
+    url: https://invest.sentola.ru
+  - name: Sentola Admin
+    url: https://admin.sentola.ru
+  - name: Trackr Backend (Conversion API)
+    url: https://api.tradetrackr.ru/api/open/convert
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
