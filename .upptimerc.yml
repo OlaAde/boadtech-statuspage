@@ -22,9 +22,9 @@ status-website:
   # cname: status.boadtech.com
   baseUrl: /boadtech-statuspage
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: BoadTech Status Page
+  introTitle: I help you ping your urls.
+  introMessage: BoadTech Status Page. Happy Coding.
   navbar:
     - title: Status
       href: /
