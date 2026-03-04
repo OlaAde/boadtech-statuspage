@@ -4,18 +4,20 @@
     "url": "https://www.sentola.ru",
     "icon": "https://icons.duckduckgo.com/ip3/www.sentola.ru.ico",
     "slug": "sentola-website",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2543,
-    "timeDay": 2543,
-    "timeWeek": 2543,
-    "timeMonth": 2543,
-    "timeYear": 2543,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.96%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 3410,
+    "timeDay": 3410,
+    "timeWeek": 3410,
+    "timeMonth": 3410,
+    "timeYear": 3410,
+    "dailyMinutesDown": {
+      "2026-03-04": 1
+    }
   },
   {
     "name": "Sentola Dashboard",
