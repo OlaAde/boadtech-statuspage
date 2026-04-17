@@ -1,7 +1,7 @@
 url: https://www.sentola.ru
-status: up
-code: 200
-responseTime: 1773
-lastUpdated: 2026-04-16T23:38:36.442Z
+status: down
+code: 502
+responseTime: 8626
+lastUpdated: 2026-04-17T11:54:58.460Z
 startTime: 2026-03-03T13:51:37.533Z
 generator: Upptime <https://github.com/upptime/upptime>
