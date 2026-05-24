@@ -61,19 +61,19 @@
     "url": "https://api.sentola.ru/",
     "icon": "https://icons.duckduckgo.com/ip3/api.sentola.ru.ico",
     "slug": "sentola-backend",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 6044,
-    "timeDay": 4486,
-    "timeWeek": 6306,
-    "timeMonth": 6606,
-    "timeYear": 6044,
+    "status": "up",
+    "uptime": "99.92%",
+    "uptimeDay": "93.35%",
+    "uptimeWeek": "99.05%",
+    "uptimeMonth": "99.78%",
+    "uptimeYear": "99.92%",
+    "time": 6063,
+    "timeDay": 5553,
+    "timeWeek": 6459,
+    "timeMonth": 6640,
+    "timeYear": 6063,
     "dailyMinutesDown": {
-      "2026-05-24": 0
+      "2026-05-24": 96
     }
   },
   {
