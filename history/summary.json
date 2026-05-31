@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.sentola.ru.ico",
     "slug": "sentola-website",
     "status": "up",
-    "uptime": "98.50%",
+    "uptime": "98.52%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.17%",
     "uptimeMonth": "99.39%",
-    "uptimeYear": "98.50%",
-    "time": 3138,
-    "timeDay": 1799,
-    "timeWeek": 2274,
-    "timeMonth": 1972,
-    "timeYear": 3138,
+    "uptimeYear": "98.52%",
+    "time": 3130,
+    "timeDay": 1885,
+    "timeWeek": 2268,
+    "timeMonth": 1970,
+    "timeYear": 3130,
     "dailyMinutesDown": {
       "2026-03-04": 84,
       "2026-03-05": 106,
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1701,
-    "timeDay": 2036,
-    "timeWeek": 1864,
-    "timeMonth": 1754,
-    "timeYear": 1701,
+    "time": 1694,
+    "timeDay": 1106,
+    "timeWeek": 1757,
+    "timeMonth": 1733,
+    "timeYear": 1694,
     "dailyMinutesDown": {}
   },
   {
@@ -68,11 +68,11 @@
     "uptimeWeek": "99.05%",
     "uptimeMonth": "99.78%",
     "uptimeYear": "99.92%",
-    "time": 6086,
-    "timeDay": 6874,
-    "timeWeek": 6129,
-    "timeMonth": 6608,
-    "timeYear": 6086,
+    "time": 6099,
+    "timeDay": 7334,
+    "timeWeek": 6357,
+    "timeMonth": 6630,
+    "timeYear": 6099,
     "dailyMinutesDown": {
       "2026-05-24": 96
     }
@@ -88,11 +88,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 2073,
-    "timeDay": 2787,
-    "timeWeek": 2304,
-    "timeMonth": 2208,
-    "timeYear": 2073,
+    "time": 2067,
+    "timeDay": 1475,
+    "timeWeek": 2271,
+    "timeMonth": 2184,
+    "timeYear": 2067,
     "dailyMinutesDown": {
       "2026-03-20": 28
     }
@@ -108,11 +108,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 2161,
-    "timeDay": 2298,
-    "timeWeek": 1914,
-    "timeMonth": 2191,
-    "timeYear": 2161,
+    "time": 2163,
+    "timeDay": 2381,
+    "timeWeek": 1933,
+    "timeMonth": 2197,
+    "timeYear": 2163,
     "dailyMinutesDown": {
       "2026-03-20": 28
     }
@@ -128,11 +128,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 17550,
-    "timeDay": 16805,
-    "timeWeek": 18232,
-    "timeMonth": 18108,
-    "timeYear": 17550,
+    "time": 17536,
+    "timeDay": 16254,
+    "timeWeek": 18059,
+    "timeMonth": 18049,
+    "timeYear": 17536,
     "dailyMinutesDown": {}
   }
 ]
