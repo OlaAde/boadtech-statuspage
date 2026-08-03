@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.sentola.ru.ico",
     "slug": "sentola-website",
     "status": "down",
-    "uptime": "97.95%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "97.95%",
+    "uptime": "97.63%",
+    "uptimeDay": "48.97%",
+    "uptimeWeek": "92.71%",
+    "uptimeMonth": "98.19%",
+    "uptimeYear": "97.63%",
     "time": 2738,
-    "timeDay": 2165,
-    "timeWeek": 1755,
-    "timeMonth": 1825,
+    "timeDay": 0,
+    "timeWeek": 1762,
+    "timeMonth": 1830,
     "timeYear": 2738,
     "dailyMinutesDown": {
       "2026-03-04": 84,
@@ -41,7 +41,8 @@
       "2026-06-02": 1440,
       "2026-06-01": 134,
       "2026-07-19": 59,
-      "2026-08-02": 1
+      "2026-08-03": 146,
+      "2026-08-02": 588
     }
   },
   {
@@ -50,22 +51,23 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.sentola.ru.ico",
     "slug": "sentola-dashboard",
     "status": "down",
-    "uptime": "98.82%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "98.82%",
+    "uptime": "98.49%",
+    "uptimeDay": "48.99%",
+    "uptimeWeek": "92.71%",
+    "uptimeMonth": "98.19%",
+    "uptimeYear": "98.49%",
     "time": 1686,
-    "timeDay": 1540,
-    "timeWeek": 1378,
-    "timeMonth": 1705,
+    "timeDay": 0,
+    "timeWeek": 1456,
+    "timeMonth": 1706,
     "timeYear": 1686,
     "dailyMinutesDown": {
       "2026-06-03": 959,
       "2026-06-02": 1440,
       "2026-06-01": 134,
       "2026-07-19": 59,
-      "2026-08-02": 1
+      "2026-08-03": 146,
+      "2026-08-02": 588
     }
   },
   {
@@ -74,15 +76,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.sentola.ru.ico",
     "slug": "sentola-backend",
     "status": "down",
-    "uptime": "98.77%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "98.77%",
+    "uptime": "98.44%",
+    "uptimeDay": "49.00%",
+    "uptimeWeek": "92.71%",
+    "uptimeMonth": "98.19%",
+    "uptimeYear": "98.44%",
     "time": 6536,
-    "timeDay": 6409,
-    "timeWeek": 7007,
-    "timeMonth": 8021,
+    "timeDay": 0,
+    "timeWeek": 7063,
+    "timeMonth": 8056,
     "timeYear": 6536,
     "dailyMinutesDown": {
       "2026-05-24": 96,
@@ -90,7 +92,8 @@
       "2026-06-02": 1440,
       "2026-06-01": 134,
       "2026-07-19": 60,
-      "2026-08-02": 1
+      "2026-08-03": 146,
+      "2026-08-02": 588
     }
   },
   {
@@ -99,22 +102,23 @@
     "icon": "https://icons.duckduckgo.com/ip3/invest.sentola.ru.ico",
     "slug": "invest-sentola",
     "status": "down",
-    "uptime": "98.83%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "98.83%",
+    "uptime": "98.50%",
+    "uptimeDay": "49.02%",
+    "uptimeWeek": "92.72%",
+    "uptimeMonth": "98.32%",
+    "uptimeYear": "98.50%",
     "time": 2174,
-    "timeDay": 2037,
-    "timeWeek": 2212,
-    "timeMonth": 2243,
+    "timeDay": 0,
+    "timeWeek": 2256,
+    "timeMonth": 2261,
     "timeYear": 2174,
     "dailyMinutesDown": {
       "2026-03-20": 28,
       "2026-06-03": 959,
       "2026-06-02": 1440,
       "2026-06-01": 133,
-      "2026-08-02": 1
+      "2026-08-03": 146,
+      "2026-08-02": 588
     }
   },
   {
@@ -123,15 +127,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/admin.sentola.ru.ico",
     "slug": "sentola-admin",
     "status": "down",
-    "uptime": "98.80%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.87%",
-    "uptimeYear": "98.80%",
+    "uptime": "98.47%",
+    "uptimeDay": "49.04%",
+    "uptimeWeek": "92.72%",
+    "uptimeMonth": "98.19%",
+    "uptimeYear": "98.47%",
     "time": 2328,
-    "timeDay": 2400,
-    "timeWeek": 2660,
-    "timeMonth": 2699,
+    "timeDay": 0,
+    "timeWeek": 2375,
+    "timeMonth": 2718,
     "timeYear": 2328,
     "dailyMinutesDown": {
       "2026-03-20": 28,
@@ -139,7 +143,8 @@
       "2026-06-02": 1440,
       "2026-06-01": 133,
       "2026-07-19": 58,
-      "2026-08-02": 0
+      "2026-08-03": 146,
+      "2026-08-02": 587
     }
   },
   {
@@ -148,22 +153,23 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.tradetrackr.ru.ico",
     "slug": "trackr-backend-conversion-api",
     "status": "down",
-    "uptime": "98.79%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.73%",
-    "uptimeYear": "98.79%",
+    "uptime": "98.46%",
+    "uptimeDay": "49.05%",
+    "uptimeWeek": "92.72%",
+    "uptimeMonth": "98.05%",
+    "uptimeYear": "98.46%",
     "time": 18044,
-    "timeDay": 18107,
-    "timeWeek": 19048,
-    "timeMonth": 18207,
+    "timeDay": 0,
+    "timeWeek": 18754,
+    "timeMonth": 18105,
     "timeYear": 18044,
     "dailyMinutesDown": {
       "2026-06-03": 959,
       "2026-06-02": 1440,
       "2026-06-01": 133,
       "2026-07-19": 118,
-      "2026-08-02": 0
+      "2026-08-03": 146,
+      "2026-08-02": 587
     }
   }
 ]
