@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.sentola.ru.ico",
     "slug": "sentola-website",
     "status": "down",
-    "uptime": "97.22%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "93.75%",
-    "uptimeYear": "97.22%",
+    "uptime": "97.17%",
+    "uptimeDay": "90.86%",
+    "uptimeWeek": "98.69%",
+    "uptimeMonth": "93.45%",
+    "uptimeYear": "97.17%",
     "time": 2636,
     "timeDay": 0,
     "timeWeek": 1884,
@@ -44,7 +44,7 @@
       "2026-08-04": 708,
       "2026-08-03": 1440,
       "2026-08-02": 588,
-      "2026-08-31": 1
+      "2026-08-31": 132
     }
   },
   {
@@ -53,11 +53,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.sentola.ru.ico",
     "slug": "sentola-dashboard",
     "status": "down",
-    "uptime": "97.95%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "93.75%",
-    "uptimeYear": "97.95%",
+    "uptime": "97.90%",
+    "uptimeDay": "90.88%",
+    "uptimeWeek": "98.70%",
+    "uptimeMonth": "93.45%",
+    "uptimeYear": "97.90%",
     "time": 1721,
     "timeDay": 0,
     "timeWeek": 2137,
@@ -71,7 +71,7 @@
       "2026-08-04": 708,
       "2026-08-03": 1440,
       "2026-08-02": 588,
-      "2026-08-31": 1
+      "2026-08-31": 131
     }
   },
   {
@@ -80,11 +80,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.sentola.ru.ico",
     "slug": "sentola-backend",
     "status": "down",
-    "uptime": "97.91%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "93.75%",
-    "uptimeYear": "97.91%",
+    "uptime": "97.86%",
+    "uptimeDay": "90.89%",
+    "uptimeWeek": "98.70%",
+    "uptimeMonth": "93.45%",
+    "uptimeYear": "97.86%",
     "time": 6550,
     "timeDay": 0,
     "timeWeek": 7032,
@@ -99,7 +99,7 @@
       "2026-08-04": 708,
       "2026-08-03": 1440,
       "2026-08-02": 588,
-      "2026-08-31": 1
+      "2026-08-31": 131
     }
   },
   {
@@ -108,11 +108,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/invest.sentola.ru.ico",
     "slug": "invest-sentola",
     "status": "down",
-    "uptime": "97.96%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "93.75%",
-    "uptimeYear": "97.96%",
+    "uptime": "97.91%",
+    "uptimeDay": "90.91%",
+    "uptimeWeek": "98.70%",
+    "uptimeMonth": "93.45%",
+    "uptimeYear": "97.91%",
     "time": 2173,
     "timeDay": 0,
     "timeWeek": 2535,
@@ -126,7 +126,7 @@
       "2026-08-04": 709,
       "2026-08-03": 1440,
       "2026-08-02": 588,
-      "2026-08-31": 1
+      "2026-08-31": 131
     }
   },
   {
@@ -135,11 +135,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/admin.sentola.ru.ico",
     "slug": "sentola-admin",
     "status": "down",
-    "uptime": "97.94%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "93.75%",
-    "uptimeYear": "97.94%",
+    "uptime": "97.89%",
+    "uptimeDay": "90.93%",
+    "uptimeWeek": "98.70%",
+    "uptimeMonth": "93.46%",
+    "uptimeYear": "97.89%",
     "time": 2311,
     "timeDay": 0,
     "timeWeek": 2106,
@@ -154,7 +154,7 @@
       "2026-08-04": 709,
       "2026-08-03": 1440,
       "2026-08-02": 587,
-      "2026-08-31": 0
+      "2026-08-31": 131
     }
   },
   {
@@ -163,11 +163,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.tradetrackr.ru.ico",
     "slug": "trackr-backend-conversion-api",
     "status": "down",
-    "uptime": "97.93%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "93.75%",
-    "uptimeYear": "97.93%",
+    "uptime": "97.88%",
+    "uptimeDay": "90.94%",
+    "uptimeWeek": "98.71%",
+    "uptimeMonth": "93.46%",
+    "uptimeYear": "97.88%",
     "time": 18234,
     "timeDay": 0,
     "timeWeek": 21084,
@@ -181,7 +181,7 @@
       "2026-08-04": 709,
       "2026-08-03": 1440,
       "2026-08-02": 587,
-      "2026-08-31": 0
+      "2026-08-31": 130
     }
   }
 ]
